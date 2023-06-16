@@ -38,7 +38,6 @@ Our default branch is for development of our Bootstrap 5 release. Head to the [`
 - [Community](#community)
 - [Versioning](#versioning)
 - [Creators](#creators)
-- [Thanks!!!!](#thanks)
 - [Copyright and license](#copyright-and-license)
 
 
