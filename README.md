@@ -31,14 +31,13 @@ Our default branch is for development of our Bootstrap 5 release. Head to the [`
 
 - [Quick start](#quick-start)
 - [Status](#status)
-- [What's included](#whats-included)
+- [What's included?](#whats-included)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Documentation](#documentation)
 - [Contributing](#contributing)
 - [Community](#community)
 - [Versioning](#versioning)
 - [Creators](#creators)
-- [Thanks](#thanks)
 - [Copyright and license](#copyright-and-license)
 
 
